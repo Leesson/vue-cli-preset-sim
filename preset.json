@@ -7,13 +7,6 @@
       "lintOn": [
         "save"
       ]
-    },
-    "vue-cli-plugin-cube-ui": {
-      "postCompile": true,
-      "importType": "partly",
-      "theme": true,
-      "rem": true,
-      "amfeFlexible": true
     }
   },
   "cssPreprocessor": "stylus"
